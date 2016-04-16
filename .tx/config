@@ -31,6 +31,7 @@ trans.zh_CN = po/zh_CN.po
 trans.es_EC = po/es_EC.po
 trans.id = po/id.po
 trans.lt = po/lt.po
+trans.ja = po/ja.po
 type = PO
 
 [lollypop.help]
@@ -64,4 +65,5 @@ trans.zh_CN = help/zh_CN/zh_CN.po
 trans.es_EC = help/es_EC/es_EC.po
 trans.id = help/id/id.po
 trans.lt = help/lt/lt.po
+trans.ja = help/ja/ja.po
 type = PO
