@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-16 17:55+0900\n"
-"PO-Revision-Date: 2016-04-16 19:52+0900\n"
+"PO-Revision-Date: 2016-04-17 13:44+0900\n"
 "Last-Translator: ktkr3d <ktkr3d@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -415,7 +415,7 @@ msgstr "現在の曲へ移動"
 
 #: ../src/pop_albums.py:297 ../src/toolbar_end.py:305
 msgid "Playing albums"
-msgstr "アルバムを再生中"
+msgstr "再生中のアルバム"
 
 #: ../src/pop_covers.py:53 ../src/pop_tunein.py:93 ../data/RadioPopover.ui.h:3
 msgid "Please wait..."
@@ -744,11 +744,11 @@ msgstr "新規ラジオ"
 
 #: ../data/RadiosView.ui.h:3
 msgid "Search in TuneIn"
-msgstr ""
+msgstr "TuneIn で検索"
 
 #: ../data/SearchPopover.ui.h:1
 msgid "Create a new playlist based on search"
-msgstr ""
+msgstr "検索結果からプレイリストを作成"
 
 #: ../data/SearchRow.ui.h:1
 msgid "Add to playlist"
